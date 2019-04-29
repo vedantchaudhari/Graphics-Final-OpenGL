@@ -1,12 +1,12 @@
 # EGP-300 Inter Graphics & Animation Programming Final: Model Rigging + Skinning
 ### Team Members
-* Vedant Chaudhari
+* Vedant Chaudhari,
   Contributions: Model Skinning + Cloth Shaders
-* John Malvey
+* John Malvey,
   Contributions: Model Rigging / Skinning
 ##### Repository Link: <https://github.com/vedantchaudhari/Graphics-Final-OpenGL>
 ##### UML Link
-##### Branch: Master (Latest Commit)
+##### Use Master Branch (Latest Commit)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
