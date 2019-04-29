@@ -20,5 +20,4 @@ Licensed under the Apache License, Version 2.0 (the "License");
 
 ***
 ## Project Description
-For our final project we decided to implement a model skinning and vertex blending system. This allows us to display realistic animatiosn and models in animal3D.
-This project fits both the animation tool and high level goal categories for the final project.
+For our final project we decided to implement a model skinning and vertex blending system. This allows us to display realistic animatiosn and models in animal3D. This project fits both the animation tool and high level goal categories for the final project.
