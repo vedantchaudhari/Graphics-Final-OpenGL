@@ -3,7 +3,7 @@
 * Vedant Chaudhari | Model Skinning + Cloth Shaders
 * John Malvey | Model Skinning + Vertex Blending
 ##### Repository Link: <https://github.com/vedantchaudhari/Graphics-Final-OpenGL>
-##### UML Link
+##### UML Link <>
 ##### Use Master Branch (Latest Commit)
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,3 +21,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 ***
 ## Project Description
 For our final project we decided to implement a model skinning and vertex blending system. This allows us to display realistic animations and models in animal3D. This project fits both the animation tool and high level goal categories for the final project.
+
+INSERT SCREENSHOTS HERE
+
+##### Pertinent Code
