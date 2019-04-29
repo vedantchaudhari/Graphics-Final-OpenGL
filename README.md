@@ -3,7 +3,7 @@
 * Vedant Chaudhari | Model Skinning + Cloth Shaders
 * John Malvey | Model Skinning + Vertex Blending
 ##### Repository Link: <https://github.com/vedantchaudhari/Graphics-Final-OpenGL>
-##### UML Link <>
+##### UML Link
 ##### Use Master Branch (Latest Commit)
 
 Licensed under the Apache License, Version 2.0 (the "License");
