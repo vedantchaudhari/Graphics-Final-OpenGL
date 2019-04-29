@@ -25,3 +25,7 @@ For our final project we decided to implement a model skinning and vertex blendi
 INSERT SCREENSHOTS HERE
 
 ##### Pertinent Code
+* a3_DemoState_idle-render.c
+* a3_DemoState_idle-update.c
+* bindVertsToBone.glsl
+* drawTexture_fs4x.glsl
