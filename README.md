@@ -1,7 +1,7 @@
 # EGP-300 Inter Graphics & Animation Programming Final: Model Rigging + Skinning
 ### Team Members
 * Vedant Chaudhari | Model Skinning + Cloth Shaders
-* John Malvey | Model Rigging / Skinning
+* John Malvey | Model Skinning + Vertex Blending
 ##### Repository Link: <https://github.com/vedantchaudhari/Graphics-Final-OpenGL>
 ##### UML Link
 ##### Use Master Branch (Latest Commit)
@@ -17,3 +17,8 @@ Licensed under the Apache License, Version 2.0 (the "License");
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
+
+***
+## Project Description
+For our final project we decided to implement a model skinning and vertex blending system. This allows us to display realistic animatiosn and models in animal3D.
+This project fits both the animation tool and high level goal categories for the final project.
